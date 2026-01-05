@@ -47,7 +47,7 @@ WaterTracker/
 
 ⚙️ Local Setup & Installation
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/watertracker.git
+git clone https://github.com/sai26varshini/AI-WATER-INTAKE-TRACKER-AGENT.git
 cd watertracker
 
 2️⃣ Create & activate virtual environment
